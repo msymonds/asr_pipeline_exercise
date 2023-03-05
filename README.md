@@ -1,6 +1,7 @@
 # asr_pipeline_exercise
 continuous streaming voice to text using open source libraries
 
+As always use good virtualenv hygiene 
 
 Things you'll need to pip install:
 
@@ -12,7 +13,7 @@ Things you'll need to pip install:
 
 
 Tips:
-sounddevice defaults to your defaul communications devices to record/playback
+sounddevice defaults to your default communications devices to record/playback
 To check what those defaults are, use 
 
 python -m sounddevice
