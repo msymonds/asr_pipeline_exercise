@@ -14,5 +14,7 @@ Things you'll need to pip install:
 Tips:
 sounddevice defaults to your defaul communications devices to record/playback
 To check what those defaults are, use 
+
 python -m sounddevice
+
 and change accodingly as you need
